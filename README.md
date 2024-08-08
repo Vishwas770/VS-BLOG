@@ -38,8 +38,12 @@ npm run dev
 - view others post
 - Simple Interface
 
-## #
-![create post](https://github.com/user-attachments/assets/da806820-e36a-4de2-8eea-6da39f2a6d4c)
-![login page](https://github.com/user-attachments/assets/3acf95c1-3ea7-4f4a-867f-829b7843fc0f)
-![register page](https://github.com/user-attachments/assets/66360686-cdba-49af-bd31-720c59caaabe)
+## Screenshot of project
+
 ![home page](https://github.com/user-attachments/assets/fc793893-7a57-4c40-ba88-3fff7ab27308)
+
+![register page](https://github.com/user-attachments/assets/66360686-cdba-49af-bd31-720c59caaabe)
+
+![login page](https://github.com/user-attachments/assets/3acf95c1-3ea7-4f4a-867f-829b7843fc0f)
+
+![create post](https://github.com/user-attachments/assets/da806820-e36a-4de2-8eea-6da39f2a6d4c)
